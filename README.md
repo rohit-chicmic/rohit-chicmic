@@ -24,7 +24,12 @@ const rohit = {
         devOps: ["AWS", "Nginx", "Jenkins"],
         misc: ["Firebase", "Socket.IO"]
     },
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    architecture: [
+        "Serverless Architecture", 
+        "microservices", 
+        "event-driven", 
+        "Single page applications"
+    ],
 }
 ```
 
