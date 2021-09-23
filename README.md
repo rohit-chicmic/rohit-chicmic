@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/Gmail-rohit-red)](mailto:rohit.kumar@chicmic.co.in)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif" width="50"> A little more about me...  
 
 ```javascript
 const rohit = {
