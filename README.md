@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @rohit-chicmic
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!---
-rohit-chicmic/rohit-chicmic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## नमस्ते 🙏, I'm ROHIT KUMAR GUPTA 
+## Angular Developer 👨‍💻
+
+
+
+
+[![](https://img.shields.io/badge/LinkedIn-Rohit-blue)](https://www.linkedin.com/in/rkumar181298/)
+[![](https://img.shields.io/badge/Gmail-rohit%40gmail.com-red)](mailto:rohit.kumar@chicmic.co.in)
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const rohit = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["app dev", "web dev", "tech"],
+    technologies:{
+        backEnd: ["nodejs", "express", "python"],
+        fronEnd: ["angular"],
+<!--         mobileApp: ["ionic","angular"], -->
+        database: ["mongo","mySql"],
+        serverless: ["mongo-realm","aws-lambda"],
+        devOps: ["AWS", "Nginx", "Jenkins"],
+        misc: ["Firebase", "Socket.IO"]
+    },
+    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+}
+```
+
+---
+⭐️ From [@rohit](https://github.com/rohit-chicmic)
+
+
+----
+Credit: [rohit](https://github.com/rohit-chicmic)
+
+Last Edited on: 23/09/2021
