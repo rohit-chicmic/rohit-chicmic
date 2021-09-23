@@ -19,7 +19,6 @@ const rohit = {
     technologies:{
         backEnd: ["nodejs", "express", "python"],
         fronEnd: ["angular"],
-<!--         mobileApp: ["ionic","angular"], -->
         database: ["mongo","mySql"],
         serverless: ["mongo-realm","aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins"],
