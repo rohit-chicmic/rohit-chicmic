@@ -7,7 +7,7 @@
 
 
 [![](https://img.shields.io/badge/LinkedIn-Rohit-blue)](https://www.linkedin.com/in/rkumar181298/)
-[![](https://img.shields.io/badge/Gmail-rohit%40gmail.com-red)](mailto:rohit.kumar@chicmic.co.in)
+[![](https://img.shields.io/badge/Gmail-rohit-red)](mailto:rohit.kumar@chicmic.co.in)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
