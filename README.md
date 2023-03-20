@@ -17,9 +17,9 @@ const rohit = {
     pronouns: "He" | "Him",
     askMeAbout: ["app dev", "web dev", "tech"],
     technologies:{
-        backEnd: ["nodejs", "express", "python"],
+        backEnd: ["nodejs", "express", "python", ".Net Core"],
         fronEnd: ["angular"],
-        database: ["mongo","mySql"],
+        database: ["mongo","Sql"],
         serverless: ["mongo-realm","aws-lambda"],
         devOps: ["AWS", "Nginx", "Jenkins"],
         misc: ["Firebase", "Socket.IO"]
